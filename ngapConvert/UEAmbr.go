@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/free5gc/ngap/logger"
+	"github.com/machi12/ngap/logger"
 )
 
 func UEAmbrToInt64(modelAmbr string) int64 {
