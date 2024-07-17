@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/free5gc/aper v1.0.6-0.20240503143507-2c4c4780b98f
-	github.com/machi12/openapi v1.1.0
+	github.com/machi12/openapi v1.1.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.8.3
 	github.com/tim-ywliu/nested-logrus-formatter v1.3.2
